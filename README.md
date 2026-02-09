@@ -1,4 +1,4 @@
-# Medical-Simulator
+# Surgical-Robotics-Simulator
 Robotic surgery path planning in artery
 
 
