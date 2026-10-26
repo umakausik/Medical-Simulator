@@ -2,6 +2,9 @@
 Robotic surgery path planning in artery
 
 
+https://github.com/user-attachments/assets/259c1c00-2dc1-468d-a081-b0b177a3728d
+
+
 https://github.com/user-attachments/assets/d9a677dd-7dc6-4396-944e-7e3f2a774245
 
 
